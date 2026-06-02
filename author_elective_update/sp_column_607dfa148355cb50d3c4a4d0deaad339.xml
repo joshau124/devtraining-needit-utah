@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <aria_label/>
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">207dba148355cb50d3c4a4d0deaad36e</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-02 00:56:58</sys_created_on>
+        <sys_id>607dfa148355cb50d3c4a4d0deaad339</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_column_607dfa148355cb50d3c4a4d0deaad339</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-02 00:56:58</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0bf293f73bb06a14a36804e0b5e45a90</instance_id>
+        <instance_name>dev329347</instance_name>
+        <name>sp_column_607dfa148355cb50d3c4a4d0deaad339</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><aria_label/><class_name/><order>1</order><semantic_tag/><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">207dba148355cb50d3c4a4d0deaad36e</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-02 00:56:58</sys_created_on><sys_id>607dfa148355cb50d3c4a4d0deaad339</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sp_column_607dfa148355cb50d3c4a4d0deaad339</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-02 00:56:58</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-1186702910</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>ed2e5b5b83c9c350d3c4a4d0deaad375</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-02 00:56:58</sys_created_on>
+        <sys_id>247dfa148355cb50d3c4a4d0deaad33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e85d5709f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-02 00:56:58</sys_updated_on>
+        <type>Column</type>
+        <update_guid>e07dfa140a55cb50016971a48335343b</update_guid>
+        <update_guid_history>e07dfa140a55cb50016971a48335343b:-1186702910</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">bb7dfa148355cb50d3c4a4d0deaad364</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-02 00:57:12</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>0e6f5483aa1c4b2e824f41eb378337e4</sys_id>
+        <sys_metadata>607dfa148355cb50d3c4a4d0deaad339</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sp_column_607dfa148355cb50d3c4a4d0deaad339</sys_update_name>
+        <sys_update_version display_value="sp_column_607dfa148355cb50d3c4a4d0deaad339">247dfa148355cb50d3c4a4d0deaad33c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-02 00:57:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
